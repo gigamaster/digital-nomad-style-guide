@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://gigamaster.github.io/digital-nomad-style-guide/">
-  <img src="https://github.com/gigamaster/codemo/html-css-javascript.svg" width="auto" alt="Codemo Digital Nomad Style Guide"></a>
+  <img src="https://raw.githubusercontent.com/gigamaster/codemo/refs/heads/main/html-css-javascript.svg" width="auto" alt="Codemo Digital Nomad Style Guide"></a>
   <img src="http://ForTheBadge.com/images/badges/powered-by-electricity.svg">
 </p>
 
